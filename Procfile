@@ -1,1 +1,1 @@
-web: gunicorn consultimm.wsgi
+web: gunicorn eole.wsgi
