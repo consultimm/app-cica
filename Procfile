@@ -1,1 +1,1 @@
-web: gunicorn eole/eole.wsgi
+web: gunicorn eole.wsgi
