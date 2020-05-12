@@ -1,5 +1,5 @@
 """
-WSGI config for eole project.
+WSGI config for consultimm project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
